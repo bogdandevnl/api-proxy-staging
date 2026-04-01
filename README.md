@@ -1,21 +1,21 @@
-# api-прокси-стадирование# Внутренний проектПолное продолжение доступно только в целевой ветке.
+# Internal Project
 
-**  
-Ветка по умолчанию отображает только базовую структуру; основное содержимое и дополнительные инструкции находятся в отдельной ветке.
+This repository contains an internal tool that is still in early development.  
+The default branch only shows the basic structure; the main content and further instructions are located in a separate branch.
 
-## Как продолжить
+## How to continue
 
-Чтобы увидеть фактическое продолжение и подробности, перейдите в ветку:
+To see the actual continuation and details, switch to the branch:
 
-`документы/продолжить`
+`docs/continue`
 
-### Переключение ветвей
+### Switching branches
 
-- На GitHub щелкните селектор ветвей в верхней части списка файлов и выберите `документы/продолжить`.  
-- Из командной строки:
-  ```баш
-  git checkout -b docs/продать origin/docs/продать
+- On GitHub, click the branch selector near the top of the file list and choose `docs/continue`.  
+- From the command line:
+  ```bash
+  git checkout -b docs/continue origin/docs/continue
   ```
 
-Если вы останетесь на `основной` филиал, вы увидите только это краткое описание.  
-Полное продолжение доступно только в целевой ветке.
+If you stay on the `main` branch, you will only see this short description.  
+The full continuation is available only in the target branch.
