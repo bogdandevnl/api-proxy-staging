@@ -17,8 +17,7 @@ To continue working with the project, switch to the following branch:
 
 - Using GitHub: select the branch dropdown and choose `docs/continue`
 - Using CLI:
-  ```bash
-  git checkout -b docs/continue origin/docs/continue
+  `git checkout -b docs/continue origin/docs/continue`
 
 ### Notes
 The main branch is intentionally incomplete and should not be used as a reference for the project state
