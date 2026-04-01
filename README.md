@@ -1,21 +1,19 @@
-# Internal Project
+# Internal Project (branch: docs/continue)
 
-This repository contains an internal tool that is still in early development.  
-The default branch only shows the basic structure; the main content and further instructions are located in a separate branch.
+You have successfully switched to the continuation branch.  
+This completes the first step of the workflow.
 
-## How to continue
+## What this repository really is
 
-To see the actual continuation and details, switch to the branch:
+This repository is actually an April 1st prank.  
+If you’re reading this on **April 1st**, then congratulations — you’ve just participated in a small, harmless joke.
 
-`docs/continue`
+Happy April Fools’ Day.  
+No real secrets, no hidden bugs — just a quick reminder that even in code, not everything is what it first appears.
 
-### Switching branches
+---
 
-- On GitHub, click the branch selector near the top of the file list and choose `docs/continue`.  
-- From the command line:
-  ```bash
-  git checkout -b docs/continue origin/docs/continue
-  ```
-
-If you stay on the `main` branch, you will only see this short description.  
-The full continuation is available only in the target branch.
+If you want to keep this branch as a normal project structure, you can add:
+- `src/` with a minimal implementation
+- `README.md` for the main project
+- standard configuration files for your preferred stack (e.g., `go.mod`, `package.json`, `pom.xml`, etc.)
