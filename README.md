@@ -1,21 +1,42 @@
-# Internal Project
+Internal Project
 
-This repository contains an internal tool that is still in early development.  
-The default branch only shows the basic structure; the main content and further instructions are located in a separate branch.
+This repository contains an internal tool currently in early development.
+The default branch exposes only a minimal structure required for navigation and initial setup.
 
-## How to continue
+Further implementation details, documentation, and development notes are maintained in a separate branch.
 
-To see the actual continuation and details, switch to the branch:
+Accessing full content
 
-`docs/continue`
+To continue working with the project, switch to the following branch:
 
-### Switching branches
+docs/continue
 
-- On GitHub, click the branch selector near the top of the file list and choose `docs/continue`.  
-- From the command line:
-  ```bash
-  git checkout -b docs/continue origin/docs/continue
-  ```
+Switching branches
+Using GitHub: select the branch dropdown and choose docs/continue
 
-If you stay on the `main` branch, you will only see this short description.  
-The full continuation is available only in the target branch.
+Using CLI:
+
+git checkout -b docs/continue origin/docs/continue
+Notes
+The main branch is intentionally incomplete and should not be used as a reference for the project state
+Some files may appear placeholder-like or lack context without the continuation branch
+This structure is part of the current workflow and not an error
+Verification
+
+If you are unsure whether you are in the correct branch:
+
+check the branch name
+verify the presence of extended documentation
+confirm that the repository structure matches expectations
+Additional context
+
+This repository may appear trivial at first glance.
+That assumption is expected.
+
+Whether you proceed by switching branches or decide to stay and inspect further,
+the outcome of that choice serves the same purpose within the current setup.
+
+Status
+
+Project is under active internal iteration.
+Public-facing structure may not reflect actual scope.
